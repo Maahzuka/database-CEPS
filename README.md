@@ -3,7 +3,7 @@
 Este repositório contém um arquivo .xlsx que inclui informações detalhadas sobre os CEPs de todas as cidades do Brasil que estão cadastradas nos Correios.
 
 # 📑 Descrição do Arquivo
-O arquivo Database_Ceps.xlsx foi elaborado para fornecer uma ampla gama de informações relacionadas aos CEPs de municípios brasileiros, com base em dados dos Correios. Este banco de dados é útil para diversas aplicações, incluindo mapeamento geográfico, integração com sistemas de entrega e consultas baseadas em localizações.
+O arquivo ceps.xlsx foi elaborado para fornecer uma ampla gama de informações relacionadas aos CEPs de municípios brasileiros, com base em dados dos Correios. Este banco de dados é útil para diversas aplicações, incluindo mapeamento geográfico, integração com sistemas de entrega e consultas baseadas em localizações.
 
 # 📂 Estrutura dos Dados  
   O arquivo inclui as seguintes colunas:
@@ -31,7 +31,7 @@ O arquivo Database_Ceps.xlsx foi elaborado para fornecer uma ampla gama de infor
 
 ***
 # 🚀 Como Usar
-1. **Download do Arquivo:** Baixe o arquivo Database_Ceps.xlsx diretamente deste repositório.
+1. **Download do Arquivo:** Baixe o arquivo ceps.xlsx diretamente deste repositório.
 2. **Manipulação de Dados:** O arquivo pode ser aberto em qualquer software de planilhas (Excel, Google Sheets, LibreOffice, etc.) ou processado em linguagens de programação como Python, R, ou SQL para integração com sistemas de consulta.
 3. **Consultas Geográficas:** Utilize as informações de latitude e longitude para realizar mapeamentos geográficos ou análises espaciais.
 4. **Integração com Sistemas:** As faixas de CEP podem ser usadas para integração com sistemas de logística e entrega que requerem informações detalhadas de CEP por município.
